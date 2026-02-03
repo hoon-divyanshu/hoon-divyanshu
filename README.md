@@ -45,7 +45,7 @@ I specialize in transforming complex business requirements into scalable ERP sol
 
 ## 📊 Performance Metrics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hoon-divyanshu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues,prs,stars&rank_icon=github&v=2" />
+
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hoon-divyanshu&layout=compact&theme=radical&hide=html,css&v=2" />
 </p>
 
