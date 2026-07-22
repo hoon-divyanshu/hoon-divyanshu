@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Divyanshu Hoon
-### Senior Technical Consultant | Odoo ERP Expert | Full Stack Architect
+### ERP Expert | Full Stack 
 
 <p align="left">
   <a href="mailto:divyanshuhoonccs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
